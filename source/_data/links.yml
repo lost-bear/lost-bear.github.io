@@ -1,0 +1,21 @@
+#- title: 分类1
+
+- name: Home Assistant
+  link: https://ha.bear-2026.cn:2026/
+  description: 机智熊的智能家居
+  avatar: /images/home-assistant.svg
+
+- name: NAS
+  link: https://nas.bear-2026.cn:2026/
+  description: 机智熊的NAS
+  avatar: /images/synology+dsm.svg
+
+- name: TV Source
+  link: https://web.bear-2026.cn:2026/live/tv.json
+  description: 自建安卓电视TV BOX订阅源
+  avatar: /images/tv.svg
+
+- name: Rustdesk
+  link: rd.bear-2026.cn:2026
+  description: 自建远程服务器, rd.bear-2026.cn:2026
+  avatar: /images/remote-explorer.svg
