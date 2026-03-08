@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://bear-2026.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,4 +101,7 @@ theme: keep
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/lost-bear/lost-bear.github.io.git
+  branch: master  # 确保这里是 master，因为你的仓库名决定了 GitHub 会从 master 渲染
+  force: true     # 建议加上这一行，强制覆盖远程冲突
