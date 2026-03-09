@@ -62,7 +62,7 @@ first_screen:
   description: 欢迎来到机智熊的空间
 
   # If enable hitokoto, first screen description is different every time when you enter the website
-  hitokoto: false      # Option values: true | false
+  hitokoto: true      # Option values: true | false
 
 
 # ---------------------------------------------------------------------------------------
