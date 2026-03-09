@@ -11,11 +11,11 @@
   avatar: /images/synology+dsm.svg
 
 - name: TV Source
-  link: https://web.bear-2026.cn:2026/live/tv.json
+  link: https://web.bear-2026.cn:2026/web/TV.txt
   description: 自建安卓电视TV BOX订阅源
   avatar: /images/tv.svg
 
 - name: Rustdesk
-  link: rd.bear-2026.cn:2026
-  description: 自建远程服务器, rd.bear-2026.cn:2026
+  link: https://web.bear-2026.cn:2026/web/Rustdesk.txt
+  description: 自建远程服务器
   avatar: /images/remote-explorer.svg

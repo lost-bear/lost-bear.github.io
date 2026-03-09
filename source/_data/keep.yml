@@ -59,10 +59,10 @@ first_screen:
 
   # First screen description
   # You can use the "||" to begin a newline, maximum is two lines.
-  description: 欢迎来到机智熊的空间
+  description: 你知道我要说什么的, __ __ 启动!
 
   # If enable hitokoto, first screen description is different every time when you enter the website
-  hitokoto: true      # Option values: true | false
+  hitokoto: false      # Option values: true | false
 
 
 # ---------------------------------------------------------------------------------------
